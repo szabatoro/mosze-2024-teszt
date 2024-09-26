@@ -15,7 +15,7 @@ int main()
         std::cout << "Ertek:" // nincs ";", az "Ertek" után nincs semmi kiírva, illetve kéne sortörés
     }    
     std::cout << "Atlag szamitasa: " << std::endl;
-    int atlag;
+    int atlag; // nincs megadva kezdőérték
     for (int i = 0; i < N_ELEMENTS, i++) // az N_ELEMENTS után "," helyet ";" kell
     {
         atlag += b[i] // nincs ";"
