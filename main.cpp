@@ -22,8 +22,5 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
-	
-	//Citizen7751 hozzáadása
-	std::cout << "\n\nLorem Ipsum dolor and seg fault: https://www.youtube.com/watch?v=dQw4w9WgXcQ";
     return 0;
 }
